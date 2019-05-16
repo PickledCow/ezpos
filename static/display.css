@@ -1,0 +1,28 @@
+.order {
+    border: solid 5px yellow;
+    color: #fff;
+    flex: 1;
+    flex-shrink: 0;
+    padding: 10px;
+}
+
+.order.takeaway {
+    border-color: tomato;
+}
+
+#output {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    padding: 10px;
+}
+
+body {
+    background: #000;
+    font-family: sans-serif;
+}
+
+.order button {
+    padding: 5px 15px;
+    float: right;
+}

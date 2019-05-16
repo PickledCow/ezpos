@@ -1,0 +1,1 @@
+export default ['apple', 'cap', 'cake', 'biscuit', 'slice', 'fwhite']

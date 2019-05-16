@@ -1,0 +1,9 @@
+site_name: "ezpos"
+theme:
+  name: material
+  palette:
+    primary: white
+  logo:
+    icon: shopping_cart
+repo_name: PickledCow/ezpos
+repo_url: https://github.com/PickledCow/ezpos

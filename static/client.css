@@ -1,0 +1,21 @@
+#selection > div {
+    display: grid;
+    grid-template-columns: 85px 400px 70px;
+}
+
+label:checked {
+    background: red;
+}
+
+#selection input:not([type=checkbox]) {
+    width: 85px;
+    display: block;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 1.5em;
+}
+
+button {
+    padding: 15px;
+    font-size: 1.5em;
+}
